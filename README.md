@@ -24,7 +24,6 @@ Inclui **fallback automático** para **Cohere (command-light)** e, caso nenhuma 
 - `users_news.json` / `users_news.csv` → saída gerada (não versionada, apenas local)
 - `.env.example` → exemplo de configuração das chaves
 - `.gitignore` → protege segredos e arquivos temporários
-- `docs/` → documentação extra
 - `tests/` → scripts de teste e rascunhos
 
 ---
