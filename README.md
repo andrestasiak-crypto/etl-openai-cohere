@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
 Pipeline **ETL** desenvolvido para o desafio **Santander Dev Week**, utilizando a API da **OpenAI** para gerar mensagens de marketing personalizadas.  
 Inclui **fallback automático** para **Cohere (command-light)** e, caso nenhuma IA responda, mensagens **offline simuladas**.
