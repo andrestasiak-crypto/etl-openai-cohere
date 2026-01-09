@@ -54,7 +54,7 @@ python etl.py
 
 ## 👨‍💻 Autor
 
-**André Tasiak**
+**André Stasiak**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/andre-stasiak)  
 - 💻 [GitHub](https://github.com/andrestasiak-crypto)  
