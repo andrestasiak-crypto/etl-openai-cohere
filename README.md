@@ -3,6 +3,8 @@
 ![Python](https://img.shields.io/badge/Python-3.13-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-MIT-green)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)
 
 Pipeline **ETL** desenvolvido para o desafio **Santander Dev Week**, utilizando a API da **OpenAI** para gerar mensagens de marketing personalizadas.  
 Inclui **fallback automático** para **Cohere (command-light)** e, caso nenhuma IA responda, mensagens **offline simuladas**.
@@ -51,3 +53,15 @@ cp .env.example .env
 
 # Execute
 python etl.py
+
+## 👨‍💻 Autor
+
+**André Stasiak**
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/andre-stasiak)  
+- 💻 [GitHub](https://github.com/andrestasiak-crypto)  
+- 📧 Email: andrestasiak@gmail.com  
+
+Apaixonado por tecnologia, dados e inteligência artificial.  
+Este projeto foi desenvolvido como parte do desafio **Santander Dev Week**, integrando **OpenAI** e adicionado o **Cohere** em um pipeline ETL resiliente e escalável.
+
