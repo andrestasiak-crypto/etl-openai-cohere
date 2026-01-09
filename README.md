@@ -54,6 +54,18 @@ cp .env.example .env
 # Execute
 python etl.py
 
+```
+
+## 📊 Resultado esperado
+
+Ao rodar o pipeline ETL, você deve ver no terminal mensagens indicando cada etapa (**Extract → Transform → Load**) e os arquivos de saída gerados (`users_news.json` e `users_news.csv`).
+
+### Exemplo de execução
+
+<img width="1325" height="980" alt="image" src="https://github.com/user-attachments/assets/284de9b5-a981-4594-b344-8a5e9c3f036c" />
+
+> A imagem acima mostra um exemplo de execução do ETL com mensagens geradas pela OpenAI, fallback para Cohere e saída final salva em JSON/CSV.
+
 ## 👨‍💻 Autor
 
 **André Stasiak**
